@@ -1,0 +1,4 @@
+1. Run `generateData_hgt.sh`
+2. cd to the output directory
+3. run `indelible`
+4. add_gaps.py adds gaps to an input fasta alignment. It takes two arguments, fasta alignment path and seed number
